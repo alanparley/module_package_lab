@@ -1,5 +1,6 @@
 from modules.task_list import *
 from modules.output import print_menu, print_list, print_task, print_task_descriptions
+from data.task_list import *
 
 while (True):
     print_menu()
